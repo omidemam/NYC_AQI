@@ -1,0 +1,9 @@
+,Transformation,p-value,Result
+0,log,0.28918536362259073,Fail to reject (variances are equal)
+1,sqrt,0.1398419559269561,Fail to reject (variances are equal)
+2,boxcox,1.3730050829628484e-84,Reject (variances are different)
+3,yeojohnson,1.474637372132361e-87,Reject (variances are different)
+4,reciprocal,0.7400196211726917,Fail to reject (variances are equal)
+5,inv_sqrt,0.5487910781415539,Fail to reject (variances are equal)
+6,arcsin_sqrt,0.00022103004558079664,Reject (variances are different)
+7,zscore,0.8245242532916597,Fail to reject (variances are equal)
